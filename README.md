@@ -21,6 +21,12 @@ If it was specified/I had more time, this needs error handling for disconnects, 
 
 Install dependencies:
 ```
+# Frontend
+cd frontend
+npm install
+
+# Backend
+cd backend
 npm install
 ```
 
