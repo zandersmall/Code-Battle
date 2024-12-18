@@ -12,7 +12,7 @@ Time taken: I began development at 1:00 pm CST and wrapped up by 3:30 pm CST
 
 2. For code execution, I used Judge0. Judge0 executes all code in a sandboxed enviroment, so it's pretty secure. It also has output capture and error handling which I like.
 
-3. I used React hooks and kept states local and as straightforward as possible (Trying to keep this simple as it's just a takehome).
+3. I used React hooks and kept states local and as straightforward as possible.
 
 If it was specified/I had more time, this needs error handling for disconnects, persistent storage features, and more test coverage.
 
